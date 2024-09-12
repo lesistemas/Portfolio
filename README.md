@@ -12,7 +12,6 @@
 
 <div align="center">
   <a href="https://forthebadge.com"><img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love"></a>  
-  <a href="https://forthebadge.com"><img src="https://forthebadge.com/images/badges/made-with-csharp.svg" alt="Made with Csharp"></a>  
   <a href="https://forthebadge.com"><img src="https://forthebadge.com/images/badges/open-source.svg" alt="Open Source"></a>  
   <img src="https://img.shields.io/github/stars/lesistemas/Portfolio?color=red&logo=github&style=for-the-badge" alt="GitHub Repo stars"/>  
   <img src="https://img.shields.io/github/forks/lesistemas/Portfolio?color=red&logo=github&style=for-the-badge" alt="GitHub forks"/>  
