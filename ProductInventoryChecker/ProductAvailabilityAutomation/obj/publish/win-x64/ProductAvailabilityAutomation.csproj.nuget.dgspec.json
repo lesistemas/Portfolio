@@ -1,0 +1,441 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Projetos\\VisualCode\\Portfolio\\Automação de Produtos com Selenium e CSV\\Codigo\\ProductInventoryChecker\\ProductAvailabilityAutomation\\ProductAvailabilityAutomation.csproj": {}
+  },
+  "projects": {
+    "C:\\Projetos\\VisualCode\\Portfolio\\Automação de Produtos com Selenium e CSV\\Codigo\\ProductInventoryChecker\\ProductAvailabilityAutomation\\ProductAvailabilityAutomation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projetos\\VisualCode\\Portfolio\\Automação de Produtos com Selenium e CSV\\Codigo\\ProductInventoryChecker\\ProductAvailabilityAutomation\\ProductAvailabilityAutomation.csproj",
+        "projectName": "Crawler MGMinis ProductAvailabilityAutomation",
+        "projectPath": "C:\\Projetos\\VisualCode\\Portfolio\\Automação de Produtos com Selenium e CSV\\Codigo\\ProductInventoryChecker\\ProductAvailabilityAutomation\\ProductAvailabilityAutomation.csproj",
+        "packagesPath": "C:\\Users\\leandro\\.nuget\\packages\\",
+        "outputPath": "C:\\Projetos\\VisualCode\\Portfolio\\Automação de Produtos com Selenium e CSV\\Codigo\\ProductInventoryChecker\\ProductAvailabilityAutomation\\obj\\publish\\win-x64\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\leandro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Projetos\\VisualCode\\Portfolio\\Automação de Produtos com Selenium e CSV\\Codigo\\ProductInventoryChecker\\ProductInventoryChecker.Application\\ProductInventoryChecker.Application.csproj": {
+                "projectPath": "C:\\Projetos\\VisualCode\\Portfolio\\Automação de Produtos com Selenium e CSV\\Codigo\\ProductInventoryChecker\\ProductInventoryChecker.Application\\ProductInventoryChecker.Application.csproj"
+              },
+              "C:\\Projetos\\VisualCode\\Portfolio\\Automação de Produtos com Selenium e CSV\\Codigo\\ProductInventoryChecker\\ProductInventoryChecker.Domain\\ProductInventoryChecker.Domain.csproj": {
+                "projectPath": "C:\\Projetos\\VisualCode\\Portfolio\\Automação de Produtos com Selenium e CSV\\Codigo\\ProductInventoryChecker\\ProductInventoryChecker.Domain\\ProductInventoryChecker.Domain.csproj"
+              },
+              "C:\\Projetos\\VisualCode\\Portfolio\\Automação de Produtos com Selenium e CSV\\Codigo\\ProductInventoryChecker\\ProductInventoryChecker.Infrastructure\\ProductInventoryChecker.Infrastructure.csproj": {
+                "projectPath": "C:\\Projetos\\VisualCode\\Portfolio\\Automação de Produtos com Selenium e CSV\\Codigo\\ProductInventoryChecker\\ProductInventoryChecker.Infrastructure\\ProductInventoryChecker.Infrastructure.csproj"
+              },
+              "C:\\Projetos\\VisualCode\\Portfolio\\Automação de Produtos com Selenium e CSV\\Codigo\\ProductInventoryChecker\\ProductInventoryChecker.Utilities\\ProductInventoryChecker.Utilities.csproj": {
+                "projectPath": "C:\\Projetos\\VisualCode\\Portfolio\\Automação de Produtos com Selenium e CSV\\Codigo\\ProductInventoryChecker\\ProductInventoryChecker.Utilities\\ProductInventoryChecker.Utilities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "CsvHelper": {
+              "target": "Package",
+              "version": "[33.0.1, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Selenium.Support": {
+              "target": "Package",
+              "version": "[4.24.0, )"
+            },
+            "Selenium.WebDriver": {
+              "target": "Package",
+              "version": "[4.24.0, )"
+            },
+            "Selenium.WebDriver.ChromeDriver": {
+              "target": "Package",
+              "version": "[128.0.6613.11900, )"
+            },
+            "System.ServiceProcess.ServiceController": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x64": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Projetos\\VisualCode\\Portfolio\\Automação de Produtos com Selenium e CSV\\Codigo\\ProductInventoryChecker\\ProductInventoryChecker.Application\\ProductInventoryChecker.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projetos\\VisualCode\\Portfolio\\Automação de Produtos com Selenium e CSV\\Codigo\\ProductInventoryChecker\\ProductInventoryChecker.Application\\ProductInventoryChecker.Application.csproj",
+        "projectName": "ProductInventoryChecker.Application",
+        "projectPath": "C:\\Projetos\\VisualCode\\Portfolio\\Automação de Produtos com Selenium e CSV\\Codigo\\ProductInventoryChecker\\ProductInventoryChecker.Application\\ProductInventoryChecker.Application.csproj",
+        "packagesPath": "C:\\Users\\leandro\\.nuget\\packages\\",
+        "outputPath": "C:\\Projetos\\VisualCode\\Portfolio\\Automação de Produtos com Selenium e CSV\\Codigo\\ProductInventoryChecker\\ProductInventoryChecker.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\leandro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Projetos\\VisualCode\\Portfolio\\Automação de Produtos com Selenium e CSV\\Codigo\\ProductInventoryChecker\\ProductInventoryChecker.Domain\\ProductInventoryChecker.Domain.csproj": {
+                "projectPath": "C:\\Projetos\\VisualCode\\Portfolio\\Automação de Produtos com Selenium e CSV\\Codigo\\ProductInventoryChecker\\ProductInventoryChecker.Domain\\ProductInventoryChecker.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Selenium.WebDriver": {
+              "target": "Package",
+              "version": "[4.24.0, )"
+            },
+            "Selenium.WebDriver.ChromeDriver": {
+              "target": "Package",
+              "version": "[128.0.6613.11900, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x64": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Projetos\\VisualCode\\Portfolio\\Automação de Produtos com Selenium e CSV\\Codigo\\ProductInventoryChecker\\ProductInventoryChecker.Domain\\ProductInventoryChecker.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projetos\\VisualCode\\Portfolio\\Automação de Produtos com Selenium e CSV\\Codigo\\ProductInventoryChecker\\ProductInventoryChecker.Domain\\ProductInventoryChecker.Domain.csproj",
+        "projectName": "ProductInventoryChecker.Domain",
+        "projectPath": "C:\\Projetos\\VisualCode\\Portfolio\\Automação de Produtos com Selenium e CSV\\Codigo\\ProductInventoryChecker\\ProductInventoryChecker.Domain\\ProductInventoryChecker.Domain.csproj",
+        "packagesPath": "C:\\Users\\leandro\\.nuget\\packages\\",
+        "outputPath": "C:\\Projetos\\VisualCode\\Portfolio\\Automação de Produtos com Selenium e CSV\\Codigo\\ProductInventoryChecker\\ProductInventoryChecker.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\leandro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "CsvHelper": {
+              "target": "Package",
+              "version": "[33.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x64": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Projetos\\VisualCode\\Portfolio\\Automação de Produtos com Selenium e CSV\\Codigo\\ProductInventoryChecker\\ProductInventoryChecker.Infrastructure\\ProductInventoryChecker.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projetos\\VisualCode\\Portfolio\\Automação de Produtos com Selenium e CSV\\Codigo\\ProductInventoryChecker\\ProductInventoryChecker.Infrastructure\\ProductInventoryChecker.Infrastructure.csproj",
+        "projectName": "ProductInventoryChecker.Infrastructure",
+        "projectPath": "C:\\Projetos\\VisualCode\\Portfolio\\Automação de Produtos com Selenium e CSV\\Codigo\\ProductInventoryChecker\\ProductInventoryChecker.Infrastructure\\ProductInventoryChecker.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\leandro\\.nuget\\packages\\",
+        "outputPath": "C:\\Projetos\\VisualCode\\Portfolio\\Automação de Produtos com Selenium e CSV\\Codigo\\ProductInventoryChecker\\ProductInventoryChecker.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\leandro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Projetos\\VisualCode\\Portfolio\\Automação de Produtos com Selenium e CSV\\Codigo\\ProductInventoryChecker\\ProductInventoryChecker.Domain\\ProductInventoryChecker.Domain.csproj": {
+                "projectPath": "C:\\Projetos\\VisualCode\\Portfolio\\Automação de Produtos com Selenium e CSV\\Codigo\\ProductInventoryChecker\\ProductInventoryChecker.Domain\\ProductInventoryChecker.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "CsvHelper": {
+              "target": "Package",
+              "version": "[33.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Selenium.WebDriver": {
+              "target": "Package",
+              "version": "[4.24.0, )"
+            },
+            "Selenium.WebDriver.ChromeDriver": {
+              "target": "Package",
+              "version": "[128.0.6613.11900, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x64": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Projetos\\VisualCode\\Portfolio\\Automação de Produtos com Selenium e CSV\\Codigo\\ProductInventoryChecker\\ProductInventoryChecker.Utilities\\ProductInventoryChecker.Utilities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projetos\\VisualCode\\Portfolio\\Automação de Produtos com Selenium e CSV\\Codigo\\ProductInventoryChecker\\ProductInventoryChecker.Utilities\\ProductInventoryChecker.Utilities.csproj",
+        "projectName": "ProductInventoryChecker.Utilities",
+        "projectPath": "C:\\Projetos\\VisualCode\\Portfolio\\Automação de Produtos com Selenium e CSV\\Codigo\\ProductInventoryChecker\\ProductInventoryChecker.Utilities\\ProductInventoryChecker.Utilities.csproj",
+        "packagesPath": "C:\\Users\\leandro\\.nuget\\packages\\",
+        "outputPath": "C:\\Projetos\\VisualCode\\Portfolio\\Automação de Produtos com Selenium e CSV\\Codigo\\ProductInventoryChecker\\ProductInventoryChecker.Utilities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\leandro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Projetos\\VisualCode\\Portfolio\\Automação de Produtos com Selenium e CSV\\Codigo\\ProductInventoryChecker\\ProductInventoryChecker.Domain\\ProductInventoryChecker.Domain.csproj": {
+                "projectPath": "C:\\Projetos\\VisualCode\\Portfolio\\Automação de Produtos com Selenium e CSV\\Codigo\\ProductInventoryChecker\\ProductInventoryChecker.Domain\\ProductInventoryChecker.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "CsvHelper": {
+              "target": "Package",
+              "version": "[33.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x64": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

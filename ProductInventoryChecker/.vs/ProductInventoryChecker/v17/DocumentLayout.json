@@ -1,0 +1,397 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projetos\\VisualCode\\Portfolio\\Automa\u00E7\u00E3o de Produtos com Selenium e CSV\\Codigo\\ProductInventoryChecker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D306D76-5CF1-4F03-9A7E-7AF0BC894A3D}|ProductInventoryChecker.Application\\ProductInventoryChecker.Application.csproj|c:\\projetos\\visualcode\\portfolio\\automa\u00E7\u00E3o de produtos com selenium e csv\\codigo\\productinventorychecker\\productinventorychecker.application\\productavailabilityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D306D76-5CF1-4F03-9A7E-7AF0BC894A3D}|ProductInventoryChecker.Application\\ProductInventoryChecker.Application.csproj|solutionrelative:productinventorychecker.application\\productavailabilityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0762D7-65AC-4036-8CBD-80E6299673C6}|ProductAvailabilityAutomation\\ProductAvailabilityAutomation.csproj|c:\\projetos\\visualcode\\portfolio\\automa\u00E7\u00E3o de produtos com selenium e csv\\codigo\\productinventorychecker\\productavailabilityautomation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF0762D7-65AC-4036-8CBD-80E6299673C6}|ProductAvailabilityAutomation\\ProductAvailabilityAutomation.csproj|solutionrelative:productavailabilityautomation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D306D76-5CF1-4F03-9A7E-7AF0BC894A3D}|ProductInventoryChecker.Application\\ProductInventoryChecker.Application.csproj|c:\\projetos\\visualcode\\portfolio\\automa\u00E7\u00E3o de produtos com selenium e csv\\codigo\\productinventorychecker\\productinventorychecker.application\\messageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D306D76-5CF1-4F03-9A7E-7AF0BC894A3D}|ProductInventoryChecker.Application\\ProductInventoryChecker.Application.csproj|solutionrelative:productinventorychecker.application\\messageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D306D76-5CF1-4F03-9A7E-7AF0BC894A3D}|ProductInventoryChecker.Application\\ProductInventoryChecker.Application.csproj|c:\\projetos\\visualcode\\portfolio\\automa\u00E7\u00E3o de produtos com selenium e csv\\codigo\\productinventorychecker\\productinventorychecker.application\\messageconsumerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D306D76-5CF1-4F03-9A7E-7AF0BC894A3D}|ProductInventoryChecker.Application\\ProductInventoryChecker.Application.csproj|solutionrelative:productinventorychecker.application\\messageconsumerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3153120-0129-4F4B-B195-6A686FB6AF5A}|KafkaConsumerWithMailNotifier\\KafkaConsumerWithMailNotifier.csproj|c:\\projetos\\visualcode\\portfolio\\automa\u00E7\u00E3o de produtos com selenium e csv\\codigo\\productinventorychecker\\kafkaconsumerwithmailnotifier\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3153120-0129-4F4B-B195-6A686FB6AF5A}|KafkaConsumerWithMailNotifier\\KafkaConsumerWithMailNotifier.csproj|solutionrelative:kafkaconsumerwithmailnotifier\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46E91DF3-B7E3-4C10-9FCF-F39EE6637840}|ProductInventoryChecker.Infrastructure\\ProductInventoryChecker.Infrastructure.csproj|c:\\projetos\\visualcode\\portfolio\\automa\u00E7\u00E3o de produtos com selenium e csv\\codigo\\productinventorychecker\\productinventorychecker.infrastructure\\webdriverfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46E91DF3-B7E3-4C10-9FCF-F39EE6637840}|ProductInventoryChecker.Infrastructure\\ProductInventoryChecker.Infrastructure.csproj|solutionrelative:productinventorychecker.infrastructure\\webdriverfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0762D7-65AC-4036-8CBD-80E6299673C6}|ProductAvailabilityAutomation\\ProductAvailabilityAutomation.csproj|c:\\projetos\\visualcode\\portfolio\\automa\u00E7\u00E3o de produtos com selenium e csv\\codigo\\productinventorychecker\\productavailabilityautomation\\productavailabilityautomation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FF0762D7-65AC-4036-8CBD-80E6299673C6}|ProductAvailabilityAutomation\\ProductAvailabilityAutomation.csproj|solutionrelative:productavailabilityautomation\\productavailabilityautomation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46E91DF3-B7E3-4C10-9FCF-F39EE6637840}|ProductInventoryChecker.Infrastructure\\ProductInventoryChecker.Infrastructure.csproj|c:\\projetos\\visualcode\\portfolio\\automa\u00E7\u00E3o de produtos com selenium e csv\\codigo\\productinventorychecker\\productinventorychecker.infrastructure\\persistence\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46E91DF3-B7E3-4C10-9FCF-F39EE6637840}|ProductInventoryChecker.Infrastructure\\ProductInventoryChecker.Infrastructure.csproj|solutionrelative:productinventorychecker.infrastructure\\persistence\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46E91DF3-B7E3-4C10-9FCF-F39EE6637840}|ProductInventoryChecker.Infrastructure\\ProductInventoryChecker.Infrastructure.csproj|c:\\projetos\\visualcode\\portfolio\\automa\u00E7\u00E3o de produtos com selenium e csv\\codigo\\productinventorychecker\\productinventorychecker.infrastructure\\productinventorychecker.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{46E91DF3-B7E3-4C10-9FCF-F39EE6637840}|ProductInventoryChecker.Infrastructure\\ProductInventoryChecker.Infrastructure.csproj|solutionrelative:productinventorychecker.infrastructure\\productinventorychecker.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46E91DF3-B7E3-4C10-9FCF-F39EE6637840}|ProductInventoryChecker.Infrastructure\\ProductInventoryChecker.Infrastructure.csproj|c:\\projetos\\visualcode\\portfolio\\automa\u00E7\u00E3o de produtos com selenium e csv\\codigo\\productinventorychecker\\productinventorychecker.infrastructure\\persistence\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46E91DF3-B7E3-4C10-9FCF-F39EE6637840}|ProductInventoryChecker.Infrastructure\\ProductInventoryChecker.Infrastructure.csproj|solutionrelative:productinventorychecker.infrastructure\\persistence\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D306D76-5CF1-4F03-9A7E-7AF0BC894A3D}|ProductInventoryChecker.Application\\ProductInventoryChecker.Application.csproj|c:\\projetos\\visualcode\\portfolio\\automa\u00E7\u00E3o de produtos com selenium e csv\\codigo\\productinventorychecker\\productinventorychecker.application\\productinventorychecker.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6D306D76-5CF1-4F03-9A7E-7AF0BC894A3D}|ProductInventoryChecker.Application\\ProductInventoryChecker.Application.csproj|solutionrelative:productinventorychecker.application\\productinventorychecker.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D306D76-5CF1-4F03-9A7E-7AF0BC894A3D}|ProductInventoryChecker.Application\\ProductInventoryChecker.Application.csproj|c:\\projetos\\visualcode\\portfolio\\automa\u00E7\u00E3o de produtos com selenium e csv\\codigo\\productinventorychecker\\productinventorychecker.application\\productavailabilitychecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D306D76-5CF1-4F03-9A7E-7AF0BC894A3D}|ProductInventoryChecker.Application\\ProductInventoryChecker.Application.csproj|solutionrelative:productinventorychecker.application\\productavailabilitychecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{877E0F0E-102A-4776-A5BA-8B31895307E3}|ProductInventoryChecker.Tests\\ProductInventoryChecker.Tests.csproj|c:\\projetos\\visualcode\\portfolio\\automa\u00E7\u00E3o de produtos com selenium e csv\\codigo\\productinventorychecker\\productinventorychecker.tests\\unittests\\productavailabilitycheckertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{877E0F0E-102A-4776-A5BA-8B31895307E3}|ProductInventoryChecker.Tests\\ProductInventoryChecker.Tests.csproj|solutionrelative:productinventorychecker.tests\\unittests\\productavailabilitycheckertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D306D76-5CF1-4F03-9A7E-7AF0BC894A3D}|ProductInventoryChecker.Application\\ProductInventoryChecker.Application.csproj|c:\\projetos\\visualcode\\portfolio\\automa\u00E7\u00E3o de produtos com selenium e csv\\codigo\\productinventorychecker\\productinventorychecker.application\\interfaces\\iproductavailabilityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D306D76-5CF1-4F03-9A7E-7AF0BC894A3D}|ProductInventoryChecker.Application\\ProductInventoryChecker.Application.csproj|solutionrelative:productinventorychecker.application\\interfaces\\iproductavailabilityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3C2F72A-2E27-4031-81FB-6AE295FB19D7}|ProductInventoryChecker.Domain\\ProductInventoryChecker.Domain.csproj|c:\\projetos\\visualcode\\portfolio\\automa\u00E7\u00E3o de produtos com selenium e csv\\codigo\\productinventorychecker\\productinventorychecker.domain\\comparelists.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3C2F72A-2E27-4031-81FB-6AE295FB19D7}|ProductInventoryChecker.Domain\\ProductInventoryChecker.Domain.csproj|solutionrelative:productinventorychecker.domain\\comparelists.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D28214-6A69-44B0-8084-A0C77BED4280}|ProductInventoryChecker.Utilities\\ProductInventoryChecker.Utilities.csproj|c:\\projetos\\visualcode\\portfolio\\automa\u00E7\u00E3o de produtos com selenium e csv\\codigo\\productinventorychecker\\productinventorychecker.utilities\\salerecordmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D28214-6A69-44B0-8084-A0C77BED4280}|ProductInventoryChecker.Utilities\\ProductInventoryChecker.Utilities.csproj|solutionrelative:productinventorychecker.utilities\\salerecordmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D28214-6A69-44B0-8084-A0C77BED4280}|ProductInventoryChecker.Utilities\\ProductInventoryChecker.Utilities.csproj|c:\\projetos\\visualcode\\portfolio\\automa\u00E7\u00E3o de produtos com selenium e csv\\codigo\\productinventorychecker\\productinventorychecker.utilities\\listproductmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D28214-6A69-44B0-8084-A0C77BED4280}|ProductInventoryChecker.Utilities\\ProductInventoryChecker.Utilities.csproj|solutionrelative:productinventorychecker.utilities\\listproductmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D306D76-5CF1-4F03-9A7E-7AF0BC894A3D}|ProductInventoryChecker.Application\\ProductInventoryChecker.Application.csproj|c:\\projetos\\visualcode\\portfolio\\automa\u00E7\u00E3o de produtos com selenium e csv\\codigo\\productinventorychecker\\productinventorychecker.application\\productpagescraper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D306D76-5CF1-4F03-9A7E-7AF0BC894A3D}|ProductInventoryChecker.Application\\ProductInventoryChecker.Application.csproj|solutionrelative:productinventorychecker.application\\productpagescraper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D306D76-5CF1-4F03-9A7E-7AF0BC894A3D}|ProductInventoryChecker.Application\\ProductInventoryChecker.Application.csproj|c:\\projetos\\visualcode\\portfolio\\automa\u00E7\u00E3o de produtos com selenium e csv\\codigo\\productinventorychecker\\productinventorychecker.application\\shoppage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D306D76-5CF1-4F03-9A7E-7AF0BC894A3D}|ProductInventoryChecker.Application\\ProductInventoryChecker.Application.csproj|solutionrelative:productinventorychecker.application\\shoppage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3C2F72A-2E27-4031-81FB-6AE295FB19D7}|ProductInventoryChecker.Domain\\ProductInventoryChecker.Domain.csproj|c:\\projetos\\visualcode\\portfolio\\automa\u00E7\u00E3o de produtos com selenium e csv\\codigo\\productinventorychecker\\productinventorychecker.domain\\salerecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3C2F72A-2E27-4031-81FB-6AE295FB19D7}|ProductInventoryChecker.Domain\\ProductInventoryChecker.Domain.csproj|solutionrelative:productinventorychecker.domain\\salerecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3C2F72A-2E27-4031-81FB-6AE295FB19D7}|ProductInventoryChecker.Domain\\ProductInventoryChecker.Domain.csproj|c:\\projetos\\visualcode\\portfolio\\automa\u00E7\u00E3o de produtos com selenium e csv\\codigo\\productinventorychecker\\productinventorychecker.domain\\productinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3C2F72A-2E27-4031-81FB-6AE295FB19D7}|ProductInventoryChecker.Domain\\ProductInventoryChecker.Domain.csproj|solutionrelative:productinventorychecker.domain\\productinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF0762D7-65AC-4036-8CBD-80E6299673C6}|ProductAvailabilityAutomation\\ProductAvailabilityAutomation.csproj|c:\\projetos\\visualcode\\portfolio\\automa\u00E7\u00E3o de produtos com selenium e csv\\codigo\\productinventorychecker\\productavailabilityautomation\\productavailabilityautomation.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{FF0762D7-65AC-4036-8CBD-80E6299673C6}|ProductAvailabilityAutomation\\ProductAvailabilityAutomation.csproj|solutionrelative:productavailabilityautomation\\productavailabilityautomation.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D306D76-5CF1-4F03-9A7E-7AF0BC894A3D}|ProductInventoryChecker.Application\\ProductInventoryChecker.Application.csproj|c:\\projetos\\visualcode\\portfolio\\automa\u00E7\u00E3o de produtos com selenium e csv\\codigo\\productinventorychecker\\productinventorychecker.application\\interfaces\\iproductpagescraperservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D306D76-5CF1-4F03-9A7E-7AF0BC894A3D}|ProductInventoryChecker.Application\\ProductInventoryChecker.Application.csproj|solutionrelative:productinventorychecker.application\\interfaces\\iproductpagescraperservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projetos\\VisualCode\\Portfolio\\Automa\u00E7\u00E3o de Produtos com Selenium e CSV\\Codigo\\ProductInventoryChecker\\ProductAvailabilityAutomation\\Program.cs",
+              "RelativeDocumentMoniker": "ProductAvailabilityAutomation\\Program.cs",
+              "ToolTip": "C:\\Projetos\\VisualCode\\Portfolio\\Automa\u00E7\u00E3o de Produtos com Selenium e CSV\\Codigo\\ProductInventoryChecker\\ProductAvailabilityAutomation\\Program.cs",
+              "RelativeToolTip": "ProductAvailabilityAutomation\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T06:32:27.137Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projetos\\VisualCode\\Portfolio\\Automa\u00E7\u00E3o de Produtos com Selenium e CSV\\Codigo\\ProductInventoryChecker\\KafkaConsumerWithMailNotifier\\Program.cs",
+              "RelativeDocumentMoniker": "KafkaConsumerWithMailNotifier\\Program.cs",
+              "ToolTip": "C:\\Projetos\\VisualCode\\Portfolio\\Automa\u00E7\u00E3o de Produtos com Selenium e CSV\\Codigo\\ProductInventoryChecker\\KafkaConsumerWithMailNotifier\\Program.cs",
+              "RelativeToolTip": "KafkaConsumerWithMailNotifier\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAArwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T06:31:37.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductAvailabilityService.cs",
+              "DocumentMoniker": "C:\\Projetos\\VisualCode\\Portfolio\\Automa\u00E7\u00E3o de Produtos com Selenium e CSV\\Codigo\\ProductInventoryChecker\\ProductInventoryChecker.Application\\ProductAvailabilityService.cs",
+              "RelativeDocumentMoniker": "ProductInventoryChecker.Application\\ProductAvailabilityService.cs",
+              "ToolTip": "C:\\Projetos\\VisualCode\\Portfolio\\Automa\u00E7\u00E3o de Produtos com Selenium e CSV\\Codigo\\ProductInventoryChecker\\ProductInventoryChecker.Application\\ProductAvailabilityService.cs",
+              "RelativeToolTip": "ProductInventoryChecker.Application\\ProductAvailabilityService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T06:48:53.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MessageService.cs",
+              "DocumentMoniker": "C:\\Projetos\\VisualCode\\Portfolio\\Automa\u00E7\u00E3o de Produtos com Selenium e CSV\\Codigo\\ProductInventoryChecker\\ProductInventoryChecker.Application\\MessageService.cs",
+              "RelativeDocumentMoniker": "ProductInventoryChecker.Application\\MessageService.cs",
+              "ToolTip": "C:\\Projetos\\VisualCode\\Portfolio\\Automa\u00E7\u00E3o de Produtos com Selenium e CSV\\Codigo\\ProductInventoryChecker\\ProductInventoryChecker.Application\\MessageService.cs",
+              "RelativeToolTip": "ProductInventoryChecker.Application\\MessageService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T13:04:12.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MessageConsumerService.cs",
+              "DocumentMoniker": "C:\\Projetos\\VisualCode\\Portfolio\\Automa\u00E7\u00E3o de Produtos com Selenium e CSV\\Codigo\\ProductInventoryChecker\\ProductInventoryChecker.Application\\MessageConsumerService.cs",
+              "RelativeDocumentMoniker": "ProductInventoryChecker.Application\\MessageConsumerService.cs",
+              "ToolTip": "C:\\Projetos\\VisualCode\\Portfolio\\Automa\u00E7\u00E3o de Produtos com Selenium e CSV\\Codigo\\ProductInventoryChecker\\ProductInventoryChecker.Application\\MessageConsumerService.cs",
+              "RelativeToolTip": "ProductInventoryChecker.Application\\MessageConsumerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T13:04:41.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WebDriverFactory.cs",
+              "DocumentMoniker": "C:\\Projetos\\VisualCode\\Portfolio\\Automa\u00E7\u00E3o de Produtos com Selenium e CSV\\Codigo\\ProductInventoryChecker\\ProductInventoryChecker.Infrastructure\\WebDriverFactory.cs",
+              "RelativeDocumentMoniker": "ProductInventoryChecker.Infrastructure\\WebDriverFactory.cs",
+              "ToolTip": "C:\\Projetos\\VisualCode\\Portfolio\\Automa\u00E7\u00E3o de Produtos com Selenium e CSV\\Codigo\\ProductInventoryChecker\\ProductInventoryChecker.Infrastructure\\WebDriverFactory.cs",
+              "RelativeToolTip": "ProductInventoryChecker.Infrastructure\\WebDriverFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T06:55:56.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductAvailabilityAutomation.csproj",
+              "DocumentMoniker": "C:\\Projetos\\VisualCode\\Portfolio\\Automa\u00E7\u00E3o de Produtos com Selenium e CSV\\Codigo\\ProductInventoryChecker\\ProductAvailabilityAutomation\\ProductAvailabilityAutomation.csproj",
+              "RelativeDocumentMoniker": "ProductAvailabilityAutomation\\ProductAvailabilityAutomation.csproj",
+              "ToolTip": "C:\\Projetos\\VisualCode\\Portfolio\\Automa\u00E7\u00E3o de Produtos com Selenium e CSV\\Codigo\\ProductInventoryChecker\\ProductAvailabilityAutomation\\ProductAvailabilityAutomation.csproj",
+              "RelativeToolTip": "ProductAvailabilityAutomation\\ProductAvailabilityAutomation.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-10T11:55:53.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductInventoryChecker.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Projetos\\VisualCode\\Portfolio\\Automa\u00E7\u00E3o de Produtos com Selenium e CSV\\Codigo\\ProductInventoryChecker\\ProductInventoryChecker.Infrastructure\\ProductInventoryChecker.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "ProductInventoryChecker.Infrastructure\\ProductInventoryChecker.Infrastructure.csproj",
+              "ToolTip": "C:\\Projetos\\VisualCode\\Portfolio\\Automa\u00E7\u00E3o de Produtos com Selenium e CSV\\Codigo\\ProductInventoryChecker\\ProductInventoryChecker.Infrastructure\\ProductInventoryChecker.Infrastructure.csproj",
+              "RelativeToolTip": "ProductInventoryChecker.Infrastructure\\ProductInventoryChecker.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-12T06:59:06.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Projetos\\VisualCode\\Portfolio\\Automa\u00E7\u00E3o de Produtos com Selenium e CSV\\Codigo\\ProductInventoryChecker\\ProductInventoryChecker.Infrastructure\\Persistence\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "ProductInventoryChecker.Infrastructure\\Persistence\\ProductRepository.cs",
+              "ToolTip": "C:\\Projetos\\VisualCode\\Portfolio\\Automa\u00E7\u00E3o de Produtos com Selenium e CSV\\Codigo\\ProductInventoryChecker\\ProductInventoryChecker.Infrastructure\\Persistence\\ProductRepository.cs",
+              "RelativeToolTip": "ProductInventoryChecker.Infrastructure\\Persistence\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T06:56:13.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductDbContext.cs",
+              "DocumentMoniker": "C:\\Projetos\\VisualCode\\Portfolio\\Automa\u00E7\u00E3o de Produtos com Selenium e CSV\\Codigo\\ProductInventoryChecker\\ProductInventoryChecker.Infrastructure\\Persistence\\ProductDbContext.cs",
+              "RelativeDocumentMoniker": "ProductInventoryChecker.Infrastructure\\Persistence\\ProductDbContext.cs",
+              "ToolTip": "C:\\Projetos\\VisualCode\\Portfolio\\Automa\u00E7\u00E3o de Produtos com Selenium e CSV\\Codigo\\ProductInventoryChecker\\ProductInventoryChecker.Infrastructure\\Persistence\\ProductDbContext.cs",
+              "RelativeToolTip": "ProductInventoryChecker.Infrastructure\\Persistence\\ProductDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T06:56:05.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductAvailabilityChecker.cs",
+              "DocumentMoniker": "C:\\Projetos\\VisualCode\\Portfolio\\Automa\u00E7\u00E3o de Produtos com Selenium e CSV\\Codigo\\ProductInventoryChecker\\ProductInventoryChecker.Application\\ProductAvailabilityChecker.cs",
+              "RelativeDocumentMoniker": "ProductInventoryChecker.Application\\ProductAvailabilityChecker.cs",
+              "ToolTip": "C:\\Projetos\\VisualCode\\Portfolio\\Automa\u00E7\u00E3o de Produtos com Selenium e CSV\\Codigo\\ProductInventoryChecker\\ProductInventoryChecker.Application\\ProductAvailabilityChecker.cs",
+              "RelativeToolTip": "ProductInventoryChecker.Application\\ProductAvailabilityChecker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T15:20:54.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductInventoryChecker.Application.csproj",
+              "DocumentMoniker": "C:\\Projetos\\VisualCode\\Portfolio\\Automa\u00E7\u00E3o de Produtos com Selenium e CSV\\Codigo\\ProductInventoryChecker\\ProductInventoryChecker.Application\\ProductInventoryChecker.Application.csproj",
+              "RelativeDocumentMoniker": "ProductInventoryChecker.Application\\ProductInventoryChecker.Application.csproj",
+              "ToolTip": "C:\\Projetos\\VisualCode\\Portfolio\\Automa\u00E7\u00E3o de Produtos com Selenium e CSV\\Codigo\\ProductInventoryChecker\\ProductInventoryChecker.Application\\ProductInventoryChecker.Application.csproj",
+              "RelativeToolTip": "ProductInventoryChecker.Application\\ProductInventoryChecker.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-11T13:03:56.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductAvailabilityCheckerTests.cs",
+              "DocumentMoniker": "C:\\Projetos\\VisualCode\\Portfolio\\Automa\u00E7\u00E3o de Produtos com Selenium e CSV\\Codigo\\ProductInventoryChecker\\ProductInventoryChecker.Tests\\UnitTests\\ProductAvailabilityCheckerTests.cs",
+              "RelativeDocumentMoniker": "ProductInventoryChecker.Tests\\UnitTests\\ProductAvailabilityCheckerTests.cs",
+              "ToolTip": "C:\\Projetos\\VisualCode\\Portfolio\\Automa\u00E7\u00E3o de Produtos com Selenium e CSV\\Codigo\\ProductInventoryChecker\\ProductInventoryChecker.Tests\\UnitTests\\ProductAvailabilityCheckerTests.cs",
+              "RelativeToolTip": "ProductInventoryChecker.Tests\\UnitTests\\ProductAvailabilityCheckerTests.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAMwBkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T06:47:04.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IProductAvailabilityService.cs",
+              "DocumentMoniker": "C:\\Projetos\\VisualCode\\Portfolio\\Automa\u00E7\u00E3o de Produtos com Selenium e CSV\\Codigo\\ProductInventoryChecker\\ProductInventoryChecker.Application\\Interfaces\\IProductAvailabilityService.cs",
+              "RelativeDocumentMoniker": "ProductInventoryChecker.Application\\Interfaces\\IProductAvailabilityService.cs",
+              "ToolTip": "C:\\Projetos\\VisualCode\\Portfolio\\Automa\u00E7\u00E3o de Produtos com Selenium e CSV\\Codigo\\ProductInventoryChecker\\ProductInventoryChecker.Application\\Interfaces\\IProductAvailabilityService.cs",
+              "RelativeToolTip": "ProductInventoryChecker.Application\\Interfaces\\IProductAvailabilityService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T15:19:52.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CompareLists.cs",
+              "DocumentMoniker": "C:\\Projetos\\VisualCode\\Portfolio\\Automa\u00E7\u00E3o de Produtos com Selenium e CSV\\Codigo\\ProductInventoryChecker\\ProductInventoryChecker.Domain\\CompareLists.cs",
+              "RelativeDocumentMoniker": "ProductInventoryChecker.Domain\\CompareLists.cs",
+              "ToolTip": "C:\\Projetos\\VisualCode\\Portfolio\\Automa\u00E7\u00E3o de Produtos com Selenium e CSV\\Codigo\\ProductInventoryChecker\\ProductInventoryChecker.Domain\\CompareLists.cs",
+              "RelativeToolTip": "ProductInventoryChecker.Domain\\CompareLists.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T06:43:32.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ProductInfo.cs",
+              "DocumentMoniker": "C:\\Projetos\\VisualCode\\Portfolio\\Automa\u00E7\u00E3o de Produtos com Selenium e CSV\\Codigo\\ProductInventoryChecker\\ProductInventoryChecker.Domain\\ProductInfo.cs",
+              "RelativeDocumentMoniker": "ProductInventoryChecker.Domain\\ProductInfo.cs",
+              "ToolTip": "C:\\Projetos\\VisualCode\\Portfolio\\Automa\u00E7\u00E3o de Produtos com Selenium e CSV\\Codigo\\ProductInventoryChecker\\ProductInventoryChecker.Domain\\ProductInfo.cs",
+              "RelativeToolTip": "ProductInventoryChecker.Domain\\ProductInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T15:21:33.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SaleRecordManager.cs",
+              "DocumentMoniker": "C:\\Projetos\\VisualCode\\Portfolio\\Automa\u00E7\u00E3o de Produtos com Selenium e CSV\\Codigo\\ProductInventoryChecker\\ProductInventoryChecker.Utilities\\SaleRecordManager.cs",
+              "RelativeDocumentMoniker": "ProductInventoryChecker.Utilities\\SaleRecordManager.cs",
+              "ToolTip": "C:\\Projetos\\VisualCode\\Portfolio\\Automa\u00E7\u00E3o de Produtos com Selenium e CSV\\Codigo\\ProductInventoryChecker\\ProductInventoryChecker.Utilities\\SaleRecordManager.cs",
+              "RelativeToolTip": "ProductInventoryChecker.Utilities\\SaleRecordManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T15:29:36.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProductPageScraper.cs",
+              "DocumentMoniker": "C:\\Projetos\\VisualCode\\Portfolio\\Automa\u00E7\u00E3o de Produtos com Selenium e CSV\\Codigo\\ProductInventoryChecker\\ProductInventoryChecker.Application\\ProductPageScraper.cs",
+              "RelativeDocumentMoniker": "ProductInventoryChecker.Application\\ProductPageScraper.cs",
+              "ToolTip": "C:\\Projetos\\VisualCode\\Portfolio\\Automa\u00E7\u00E3o de Produtos com Selenium e CSV\\Codigo\\ProductInventoryChecker\\ProductInventoryChecker.Application\\ProductPageScraper.cs",
+              "RelativeToolTip": "ProductInventoryChecker.Application\\ProductPageScraper.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAADgv1gAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T10:46:00.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ListProductManager.cs",
+              "DocumentMoniker": "C:\\Projetos\\VisualCode\\Portfolio\\Automa\u00E7\u00E3o de Produtos com Selenium e CSV\\Codigo\\ProductInventoryChecker\\ProductInventoryChecker.Utilities\\ListProductManager.cs",
+              "RelativeDocumentMoniker": "ProductInventoryChecker.Utilities\\ListProductManager.cs",
+              "ToolTip": "C:\\Projetos\\VisualCode\\Portfolio\\Automa\u00E7\u00E3o de Produtos com Selenium e CSV\\Codigo\\ProductInventoryChecker\\ProductInventoryChecker.Utilities\\ListProductManager.cs",
+              "RelativeToolTip": "ProductInventoryChecker.Utilities\\ListProductManager.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAIA2wCMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T06:40:19.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ShopPage.cs",
+              "DocumentMoniker": "C:\\Projetos\\VisualCode\\Portfolio\\Automa\u00E7\u00E3o de Produtos com Selenium e CSV\\Codigo\\ProductInventoryChecker\\ProductInventoryChecker.Application\\ShopPage.cs",
+              "RelativeDocumentMoniker": "ProductInventoryChecker.Application\\ShopPage.cs",
+              "ToolTip": "C:\\Projetos\\VisualCode\\Portfolio\\Automa\u00E7\u00E3o de Produtos com Selenium e CSV\\Codigo\\ProductInventoryChecker\\ProductInventoryChecker.Application\\ShopPage.cs",
+              "RelativeToolTip": "ProductInventoryChecker.Application\\ShopPage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T15:21:07.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SaleRecord.cs",
+              "DocumentMoniker": "C:\\Projetos\\VisualCode\\Portfolio\\Automa\u00E7\u00E3o de Produtos com Selenium e CSV\\Codigo\\ProductInventoryChecker\\ProductInventoryChecker.Domain\\SaleRecord.cs",
+              "RelativeDocumentMoniker": "ProductInventoryChecker.Domain\\SaleRecord.cs",
+              "ToolTip": "C:\\Projetos\\VisualCode\\Portfolio\\Automa\u00E7\u00E3o de Produtos com Selenium e CSV\\Codigo\\ProductInventoryChecker\\ProductInventoryChecker.Domain\\SaleRecord.cs",
+              "RelativeToolTip": "ProductInventoryChecker.Domain\\SaleRecord.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T15:36:45.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ProductAvailabilityAutomation",
+              "DocumentMoniker": "C:\\Projetos\\VisualCode\\Portfolio\\Automa\u00E7\u00E3o de Produtos com Selenium e CSV\\Codigo\\ProductInventoryChecker\\ProductAvailabilityAutomation\\ProductAvailabilityAutomation.csproj",
+              "RelativeDocumentMoniker": "ProductAvailabilityAutomation\\ProductAvailabilityAutomation.csproj",
+              "ToolTip": "C:\\Projetos\\VisualCode\\Portfolio\\Automa\u00E7\u00E3o de Produtos com Selenium e CSV\\Codigo\\ProductInventoryChecker\\ProductAvailabilityAutomation\\ProductAvailabilityAutomation.csproj",
+              "RelativeToolTip": "ProductAvailabilityAutomation\\ProductAvailabilityAutomation.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-10T12:03:53.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IProductPageScraperService.cs",
+              "DocumentMoniker": "C:\\Projetos\\VisualCode\\Portfolio\\Automa\u00E7\u00E3o de Produtos com Selenium e CSV\\Codigo\\ProductInventoryChecker\\ProductInventoryChecker.Application\\Interfaces\\IProductPageScraperService.cs",
+              "RelativeDocumentMoniker": "ProductInventoryChecker.Application\\Interfaces\\IProductPageScraperService.cs",
+              "ToolTip": "C:\\Projetos\\VisualCode\\Portfolio\\Automa\u00E7\u00E3o de Produtos com Selenium e CSV\\Codigo\\ProductInventoryChecker\\ProductInventoryChecker.Application\\Interfaces\\IProductPageScraperService.cs",
+              "RelativeToolTip": "ProductInventoryChecker.Application\\Interfaces\\IProductPageScraperService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T15:20:15.209Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

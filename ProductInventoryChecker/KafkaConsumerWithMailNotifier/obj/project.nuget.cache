@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "93FkFJ3d7LQ=",
+  "success": true,
+  "projectFilePath": "C:\\Projetos\\VisualCode\\Portfolio\\Automação de Produtos com Selenium e CSV\\Codigo\\ProductInventoryChecker\\KafkaConsumerWithMailNotifier\\KafkaConsumerWithMailNotifier.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\leandro\\.nuget\\packages\\confluent.kafka\\2.5.3\\confluent.kafka.2.5.3.nupkg.sha512",
+    "C:\\Users\\leandro\\.nuget\\packages\\librdkafka.redist\\2.5.3\\librdkafka.redist.2.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}

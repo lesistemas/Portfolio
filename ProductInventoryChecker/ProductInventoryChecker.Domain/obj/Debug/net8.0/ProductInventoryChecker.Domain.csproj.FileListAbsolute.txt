@@ -1,0 +1,30 @@
+C:\Users\leandro\source\repos\ProductInventoryChecker\ProductInventoryChecker.Domain\bin\Debug\net8.0\ProductInventoryChecker.Domain.deps.json
+C:\Users\leandro\source\repos\ProductInventoryChecker\ProductInventoryChecker.Domain\bin\Debug\net8.0\ProductInventoryChecker.Domain.dll
+C:\Users\leandro\source\repos\ProductInventoryChecker\ProductInventoryChecker.Domain\bin\Debug\net8.0\ProductInventoryChecker.Domain.pdb
+C:\Users\leandro\source\repos\ProductInventoryChecker\ProductInventoryChecker.Domain\obj\Debug\net8.0\ProductInventoryChecker.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leandro\source\repos\ProductInventoryChecker\ProductInventoryChecker.Domain\obj\Debug\net8.0\ProductInventoryChecker.Domain.AssemblyInfoInputs.cache
+C:\Users\leandro\source\repos\ProductInventoryChecker\ProductInventoryChecker.Domain\obj\Debug\net8.0\ProductInventoryChecker.Domain.AssemblyInfo.cs
+C:\Users\leandro\source\repos\ProductInventoryChecker\ProductInventoryChecker.Domain\obj\Debug\net8.0\ProductInventoryChecker.Domain.csproj.CoreCompileInputs.cache
+C:\Users\leandro\source\repos\ProductInventoryChecker\ProductInventoryChecker.Domain\obj\Debug\net8.0\ProductInventoryChecker.Domain.dll
+C:\Users\leandro\source\repos\ProductInventoryChecker\ProductInventoryChecker.Domain\obj\Debug\net8.0\refint\ProductInventoryChecker.Domain.dll
+C:\Users\leandro\source\repos\ProductInventoryChecker\ProductInventoryChecker.Domain\obj\Debug\net8.0\ProductInventoryChecker.Domain.pdb
+C:\Users\leandro\source\repos\ProductInventoryChecker\ProductInventoryChecker.Domain\obj\Debug\net8.0\ref\ProductInventoryChecker.Domain.dll
+C:\Users\leandro\source\repos\ProductInventoryChecker\ProductInventoryChecker.Domain\obj\Debug\net8.0\ProductInventoryChecker.Domain.csproj.AssemblyReference.cache
+C:\Projetos\VisualCode\Portfolio\Automação Completa de Produtos com Selenium e Crawler e Importação e Exportação CSV\Codigo\ProductInventoryChecker\ProductInventoryChecker.Domain\obj\Debug\net8.0\ProductInventoryChecker.Domain.csproj.AssemblyReference.cache
+C:\Projetos\VisualCode\Portfolio\Automação Completa de Produtos com Selenium e Crawler e Importação e Exportação CSV\Codigo\ProductInventoryChecker\ProductInventoryChecker.Domain\obj\Debug\net8.0\ProductInventoryChecker.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\VisualCode\Portfolio\Automação Completa de Produtos com Selenium e Crawler e Importação e Exportação CSV\Codigo\ProductInventoryChecker\ProductInventoryChecker.Domain\obj\Debug\net8.0\ProductInventoryChecker.Domain.dll
+C:\Projetos\VisualCode\Portfolio\Automação Completa de Produtos com Selenium e Crawler e Importação e Exportação CSV\Codigo\ProductInventoryChecker\ProductInventoryChecker.Domain\obj\Debug\net8.0\refint\ProductInventoryChecker.Domain.dll
+C:\Projetos\VisualCode\Portfolio\Automação Completa de Produtos com Selenium e Crawler e Importação e Exportação CSV\Codigo\ProductInventoryChecker\ProductInventoryChecker.Domain\obj\Debug\net8.0\ProductInventoryChecker.Domain.pdb
+C:\Projetos\VisualCode\Portfolio\Automação de Produtos com Selenium e CSV\Codigo\ProductInventoryChecker\ProductInventoryChecker.Domain\bin\Debug\net8.0\ProductInventoryChecker.Domain.deps.json
+C:\Projetos\VisualCode\Portfolio\Automação de Produtos com Selenium e CSV\Codigo\ProductInventoryChecker\ProductInventoryChecker.Domain\bin\Debug\net8.0\ProductInventoryChecker.Domain.dll
+C:\Projetos\VisualCode\Portfolio\Automação de Produtos com Selenium e CSV\Codigo\ProductInventoryChecker\ProductInventoryChecker.Domain\bin\Debug\net8.0\ProductInventoryChecker.Domain.pdb
+C:\Projetos\VisualCode\Portfolio\Automação de Produtos com Selenium e CSV\Codigo\ProductInventoryChecker\ProductInventoryChecker.Domain\obj\Debug\net8.0\ProductInventoryChecker.Domain.csproj.AssemblyReference.cache
+C:\Projetos\VisualCode\Portfolio\Automação de Produtos com Selenium e CSV\Codigo\ProductInventoryChecker\ProductInventoryChecker.Domain\obj\Debug\net8.0\ProductInventoryChecker.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\VisualCode\Portfolio\Automação de Produtos com Selenium e CSV\Codigo\ProductInventoryChecker\ProductInventoryChecker.Domain\obj\Debug\net8.0\ProductInventoryChecker.Domain.AssemblyInfoInputs.cache
+C:\Projetos\VisualCode\Portfolio\Automação de Produtos com Selenium e CSV\Codigo\ProductInventoryChecker\ProductInventoryChecker.Domain\obj\Debug\net8.0\ProductInventoryChecker.Domain.AssemblyInfo.cs
+C:\Projetos\VisualCode\Portfolio\Automação de Produtos com Selenium e CSV\Codigo\ProductInventoryChecker\ProductInventoryChecker.Domain\obj\Debug\net8.0\ProductInventoryChecker.Domain.csproj.CoreCompileInputs.cache
+C:\Projetos\VisualCode\Portfolio\Automação de Produtos com Selenium e CSV\Codigo\ProductInventoryChecker\ProductInventoryChecker.Domain\obj\Debug\net8.0\ProductInventoryChecker.Domain.sourcelink.json
+C:\Projetos\VisualCode\Portfolio\Automação de Produtos com Selenium e CSV\Codigo\ProductInventoryChecker\ProductInventoryChecker.Domain\obj\Debug\net8.0\ProductInventoryChecker.Domain.dll
+C:\Projetos\VisualCode\Portfolio\Automação de Produtos com Selenium e CSV\Codigo\ProductInventoryChecker\ProductInventoryChecker.Domain\obj\Debug\net8.0\refint\ProductInventoryChecker.Domain.dll
+C:\Projetos\VisualCode\Portfolio\Automação de Produtos com Selenium e CSV\Codigo\ProductInventoryChecker\ProductInventoryChecker.Domain\obj\Debug\net8.0\ProductInventoryChecker.Domain.pdb
+C:\Projetos\VisualCode\Portfolio\Automação de Produtos com Selenium e CSV\Codigo\ProductInventoryChecker\ProductInventoryChecker.Domain\obj\Debug\net8.0\ref\ProductInventoryChecker.Domain.dll

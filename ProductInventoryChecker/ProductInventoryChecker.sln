@@ -1,0 +1,82 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{1E55ED2C-BF9C-42EE-83B2-3AB7B0EF5731}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Application", "Application", "{C7579E37-EFAF-4D01-9ADD-E73EBDAF72FD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domain", "Domain", "{7253F427-5F6F-4D2C-9966-E663D735BD8E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{13A90CF4-4387-4468-9996-E5097BFDEA1A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{FB150E02-A023-4526-A80D-DE9724433508}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Utilities", "Utilities", "{14EB3D3D-FBBB-4E79-8A3C-3A22E24BB9D8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProductInventoryChecker.Application", "ProductInventoryChecker.Application\ProductInventoryChecker.Application.csproj", "{6D306D76-5CF1-4F03-9A7E-7AF0BC894A3D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProductInventoryChecker.Domain", "ProductInventoryChecker.Domain\ProductInventoryChecker.Domain.csproj", "{B3C2F72A-2E27-4031-81FB-6AE295FB19D7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProductInventoryChecker.Tests", "ProductInventoryChecker.Tests\ProductInventoryChecker.Tests.csproj", "{877E0F0E-102A-4776-A5BA-8B31895307E3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProductInventoryChecker.Utilities", "ProductInventoryChecker.Utilities\ProductInventoryChecker.Utilities.csproj", "{43D28214-6A69-44B0-8084-A0C77BED4280}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProductAvailabilityAutomation", "ProductAvailabilityAutomation\ProductAvailabilityAutomation.csproj", "{FF0762D7-65AC-4036-8CBD-80E6299673C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KafkaConsumerWithMailNotifier", "KafkaConsumerWithMailNotifier\KafkaConsumerWithMailNotifier.csproj", "{B3153120-0129-4F4B-B195-6A686FB6AF5A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductInventoryChecker.Infrastructure", "ProductInventoryChecker.Infrastructure\ProductInventoryChecker.Infrastructure.csproj", "{46E91DF3-B7E3-4C10-9FCF-F39EE6637840}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6D306D76-5CF1-4F03-9A7E-7AF0BC894A3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D306D76-5CF1-4F03-9A7E-7AF0BC894A3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D306D76-5CF1-4F03-9A7E-7AF0BC894A3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D306D76-5CF1-4F03-9A7E-7AF0BC894A3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3C2F72A-2E27-4031-81FB-6AE295FB19D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3C2F72A-2E27-4031-81FB-6AE295FB19D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3C2F72A-2E27-4031-81FB-6AE295FB19D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3C2F72A-2E27-4031-81FB-6AE295FB19D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{877E0F0E-102A-4776-A5BA-8B31895307E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{877E0F0E-102A-4776-A5BA-8B31895307E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{877E0F0E-102A-4776-A5BA-8B31895307E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{877E0F0E-102A-4776-A5BA-8B31895307E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43D28214-6A69-44B0-8084-A0C77BED4280}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43D28214-6A69-44B0-8084-A0C77BED4280}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43D28214-6A69-44B0-8084-A0C77BED4280}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43D28214-6A69-44B0-8084-A0C77BED4280}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF0762D7-65AC-4036-8CBD-80E6299673C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF0762D7-65AC-4036-8CBD-80E6299673C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF0762D7-65AC-4036-8CBD-80E6299673C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF0762D7-65AC-4036-8CBD-80E6299673C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3153120-0129-4F4B-B195-6A686FB6AF5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3153120-0129-4F4B-B195-6A686FB6AF5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3153120-0129-4F4B-B195-6A686FB6AF5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3153120-0129-4F4B-B195-6A686FB6AF5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46E91DF3-B7E3-4C10-9FCF-F39EE6637840}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46E91DF3-B7E3-4C10-9FCF-F39EE6637840}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46E91DF3-B7E3-4C10-9FCF-F39EE6637840}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46E91DF3-B7E3-4C10-9FCF-F39EE6637840}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{6D306D76-5CF1-4F03-9A7E-7AF0BC894A3D} = {C7579E37-EFAF-4D01-9ADD-E73EBDAF72FD}
+		{B3C2F72A-2E27-4031-81FB-6AE295FB19D7} = {7253F427-5F6F-4D2C-9966-E663D735BD8E}
+		{877E0F0E-102A-4776-A5BA-8B31895307E3} = {FB150E02-A023-4526-A80D-DE9724433508}
+		{43D28214-6A69-44B0-8084-A0C77BED4280} = {14EB3D3D-FBBB-4E79-8A3C-3A22E24BB9D8}
+		{FF0762D7-65AC-4036-8CBD-80E6299673C6} = {1E55ED2C-BF9C-42EE-83B2-3AB7B0EF5731}
+		{B3153120-0129-4F4B-B195-6A686FB6AF5A} = {1E55ED2C-BF9C-42EE-83B2-3AB7B0EF5731}
+		{46E91DF3-B7E3-4C10-9FCF-F39EE6637840} = {13A90CF4-4387-4468-9996-E5097BFDEA1A}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A11E18C0-E523-41F3-AA49-0E149D23D145}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,16 @@
+C:\Projetos\VisualCode\Portfolio\Automação de Produtos com Selenium e CSV\Codigo\ProductInventoryChecker\ProductInventoryChecker.Utilities\bin\Release\net8.0\ProductInventoryChecker.Utilities.deps.json
+C:\Projetos\VisualCode\Portfolio\Automação de Produtos com Selenium e CSV\Codigo\ProductInventoryChecker\ProductInventoryChecker.Utilities\bin\Release\net8.0\ProductInventoryChecker.Utilities.dll
+C:\Projetos\VisualCode\Portfolio\Automação de Produtos com Selenium e CSV\Codigo\ProductInventoryChecker\ProductInventoryChecker.Utilities\bin\Release\net8.0\ProductInventoryChecker.Utilities.pdb
+C:\Projetos\VisualCode\Portfolio\Automação de Produtos com Selenium e CSV\Codigo\ProductInventoryChecker\ProductInventoryChecker.Utilities\bin\Release\net8.0\ProductInventoryChecker.Domain.dll
+C:\Projetos\VisualCode\Portfolio\Automação de Produtos com Selenium e CSV\Codigo\ProductInventoryChecker\ProductInventoryChecker.Utilities\bin\Release\net8.0\ProductInventoryChecker.Domain.pdb
+C:\Projetos\VisualCode\Portfolio\Automação de Produtos com Selenium e CSV\Codigo\ProductInventoryChecker\ProductInventoryChecker.Utilities\obj\Release\net8.0\ProductInventoryChecker.Utilities.csproj.AssemblyReference.cache
+C:\Projetos\VisualCode\Portfolio\Automação de Produtos com Selenium e CSV\Codigo\ProductInventoryChecker\ProductInventoryChecker.Utilities\obj\Release\net8.0\ProductInventoryChecker.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\VisualCode\Portfolio\Automação de Produtos com Selenium e CSV\Codigo\ProductInventoryChecker\ProductInventoryChecker.Utilities\obj\Release\net8.0\ProductInventoryChecker.Utilities.AssemblyInfoInputs.cache
+C:\Projetos\VisualCode\Portfolio\Automação de Produtos com Selenium e CSV\Codigo\ProductInventoryChecker\ProductInventoryChecker.Utilities\obj\Release\net8.0\ProductInventoryChecker.Utilities.AssemblyInfo.cs
+C:\Projetos\VisualCode\Portfolio\Automação de Produtos com Selenium e CSV\Codigo\ProductInventoryChecker\ProductInventoryChecker.Utilities\obj\Release\net8.0\ProductInventoryChecker.Utilities.csproj.CoreCompileInputs.cache
+C:\Projetos\VisualCode\Portfolio\Automação de Produtos com Selenium e CSV\Codigo\ProductInventoryChecker\ProductInventoryChecker.Utilities\obj\Release\net8.0\ProductInventoryChecker.Utilities.sourcelink.json
+C:\Projetos\VisualCode\Portfolio\Automação de Produtos com Selenium e CSV\Codigo\ProductInventoryChecker\ProductInventoryChecker.Utilities\obj\Release\net8.0\ProductI.E0B0A847.Up2Date
+C:\Projetos\VisualCode\Portfolio\Automação de Produtos com Selenium e CSV\Codigo\ProductInventoryChecker\ProductInventoryChecker.Utilities\obj\Release\net8.0\ProductInventoryChecker.Utilities.dll
+C:\Projetos\VisualCode\Portfolio\Automação de Produtos com Selenium e CSV\Codigo\ProductInventoryChecker\ProductInventoryChecker.Utilities\obj\Release\net8.0\refint\ProductInventoryChecker.Utilities.dll
+C:\Projetos\VisualCode\Portfolio\Automação de Produtos com Selenium e CSV\Codigo\ProductInventoryChecker\ProductInventoryChecker.Utilities\obj\Release\net8.0\ProductInventoryChecker.Utilities.pdb
+C:\Projetos\VisualCode\Portfolio\Automação de Produtos com Selenium e CSV\Codigo\ProductInventoryChecker\ProductInventoryChecker.Utilities\obj\Release\net8.0\ref\ProductInventoryChecker.Utilities.dll
