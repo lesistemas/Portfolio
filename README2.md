@@ -58,6 +58,15 @@ Automação para controle de estoque com lógica condicional e alertas em tempo 
 
 ---
 
+### 📉 [SimuladorCripto.BitStamp](https://github.com/lesistemas/SimuladorCripto.BitStamp)
+
+**Simulador de preços cripto em C#** com consumo em tempo real da API pública da BitStamp. Ideal para testes com bots de trading, integração de APIs financeiras e análise de dados do mercado cripto.
+
+**Palavras-chave SEO:** crypto price bot, BitStamp API, C# REST client, JSON parsing, real-time crypto data  
+**Tecnologias:** C#, HttpClient, JSON, console app
+
+---
+
 ## 📫 Contato
 
 📧 Email: leandrofarias.dev@gmail.com  
